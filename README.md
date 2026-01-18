@@ -1,4 +1,36 @@
 <!-- <a href="https://app.daily.dev/evan23"><img src="https://api.daily.dev/devcards/v2/NkLhmkyZII8RvhwK2t7wh.png?type=default&r=nmr" width="356" alt="Evan's Dev Card"/></a> -->
+# Evan Ngugi
+**Software Engineer**  
+**Backend engineer**
+**Frontend Engineer**
+
+## About me
+I am a software engineer who builds **backend systems, APIs, frontend systems and command-line tools**.
+I focus on **clean architecture, performance, and learning systems from first principles**.
+Currently exploring authentication systems, notifications, and scalable backend design.
+
+## 🛠 Technical Skills
+- Fullstack Web developer
+
+## **Languages**
+- JavaScript 
+- Java
+- C
+
+## Tools
+- Git and Github
+- Vs code
+- Postman
+- Docker
+- Jest
+
+## Contact
+- Linkedin: https://www.linkedin.com/in/evan-ngugi-29034830b/ 
+- Tiktok: https://www.tiktok.com/@kinjoo07
+- Instagram: https://www.instagram.com/evanngugi547/
+- Twitter: https://x.com/EvanNgugi5
+- Daily.dev: https://app.daily.dev/evandev03
+  
 
 <!--
 **eva003n/eva003n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
