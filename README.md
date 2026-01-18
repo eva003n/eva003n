@@ -1,8 +1,8 @@
 <!-- <a href="https://app.daily.dev/evan23"><img src="https://api.daily.dev/devcards/v2/NkLhmkyZII8RvhwK2t7wh.png?type=default&r=nmr" width="356" alt="Evan's Dev Card"/></a> -->
 # Evan Ngugi
 **Software Engineer**  
-**Backend engineer**
-**Frontend Engineer**
+- **Backend engineer**
+- **Frontend Engineer**
 
 ## About me
 I am a software engineer who builds **backend systems, APIs, frontend systems and command-line tools**.
@@ -22,7 +22,7 @@ Currently exploring authentication systems, notifications, and scalable backend 
 - Vs code
 - Postman
 - Docker
-- Jest
+- Testing tools eg Jest, Mocha and playwright
 
 ## Contact
 - Linkedin: https://www.linkedin.com/in/evan-ngugi-29034830b/ 
