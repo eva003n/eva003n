@@ -2,7 +2,7 @@
 # Evan Ngugi
 **Software Engineer**  
 - **Backend engineer**
-- **Frontend Engineer**
+- **Frontend engineer**
 
 ## About me
 I am a software engineer who builds **backend systems, APIs, frontend systems and command-line tools**.
