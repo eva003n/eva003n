@@ -1,8 +1,7 @@
 <!-- <a href="https://app.daily.dev/evan23"><img src="https://api.daily.dev/devcards/v2/NkLhmkyZII8RvhwK2t7wh.png?type=default&r=nmr" width="356" alt="Evan's Dev Card"/></a> -->
 ## Hi there👋
 
-## About me
-I am a software engineer who builds **backend systems, APIs, frontend systems and command-line tools**.
+I am Evan, a software engineer who builds **backend systems, APIs, frontend systems and command-line tools**.
 I focus on **clean architecture, performance, and learning systems from first principles**.
 Currently exploring authentication systems, notifications, and scalable backend design.
 
