@@ -3,7 +3,7 @@
 
 I am Evan, a software engineer who builds **backend systems, APIs, frontend systems and command-line tools**.
 I focus on **clean architecture, performance, and learning systems from first principles**.
-Currently exploring authentication systems, notifications, and scalable backend design.
+Currently working on scalable and secure backend systems.
 
 ## 🛠 Technical Skills
 - Fullstack Web developer
