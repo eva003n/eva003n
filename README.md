@@ -23,9 +23,12 @@ Currently working on scalable and secure backend systems.
 ## Contact
 - Linkedin: https://www.linkedin.com/in/evan-ngugi-29034830b/ 
 - Tiktok: https://www.tiktok.com/@kinjoo07
-- Instagram: https://www.instagram.com/evanngugi547/
-- Twitter: https://x.com/EvanNgugi5
+<!-- - Instagram: https://www.instagram.com/evanngugi547/
+- Twitter: https://x.com/EvanNgugi5-->
 - Daily.dev: https://app.daily.dev/evandev03
+  
+##⚡ Fun fact
+I love reading other people's code and understand their way of thinking more than i love writing my own code
   
 
 <!--
