@@ -27,7 +27,7 @@ Currently working on scalable and secure backend systems.
 - Twitter: https://x.com/EvanNgugi5-->
 - Daily.dev: https://app.daily.dev/evandev03
   
-##⚡ Fun fact
+##⚡Fun fact
 I love reading other people's code and understand their way of thinking more than i love writing my own code
   
 
