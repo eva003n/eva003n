@@ -20,7 +20,7 @@ Currently working on scalable and secure backend systems.
 - Docker
 - Testing tools eg Jest, Mocha and playwright
 
-##⚡Fun fact
+## ⚡Fun fact
 I love reading other people's code and understand their way of thinking more than i love writing my own code
 
 ## Contact
