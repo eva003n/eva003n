@@ -12,7 +12,7 @@ Currently learning and working on scalable, secure backend systems while utilizi
 I love reading other people's code understanding their way of thinking more than i love writing my own code\
 
 ## My Porfolio 
-- Website: https://evandev.codes/
+- Website: https://kinjo-portfolio.netlify.app/
 
 ## Contact
 - Linkedin: https://www.linkedin.com/in/evan-ngugi-29034830b/ 
